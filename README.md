@@ -1,4 +1,4 @@
 jobeet
 ======
 
-Symfony 1.2 test para el tuneado del Proyecto ALBA
+Symfony 1.2 testeando para el tuneado del Proyecto ALBA
