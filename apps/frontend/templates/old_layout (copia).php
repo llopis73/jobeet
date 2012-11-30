@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>Jobeet - Your best job board</title>
-    <link rel="shortcut icon" href="/jobeet/web/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <?php include_javascripts() ?>
     <?php include_stylesheets() ?>
   </head>
@@ -13,7 +13,7 @@
       <div id="header">
         <div class="content">
           <h1><a href="<?php echo url_for('job/index') ?>">
-            <img src="/jobeet/web/legacy/images/logo.jpg" alt="Jobeet Job Board" />
+            <img src="/legacy/images/logo.jpg" alt="Jobeet Job Board" />
           </a></h1>
  
           <div id="sub_header">
@@ -60,9 +60,9 @@
       <div id="footer">
         <div class="content">
           <span class="symfony">
-            <img src="/jobeet/web/legacy/images/jobeet-mini.png" />
+            <img src="/legacy/images/jobeet-mini.png" />
             powered by <a href="/">
-            <img src="/jobeet/web/legacy/images/symfony.gif" alt="symfony framework" />
+            <img src="/legacy/images/symfony.gif" alt="symfony framework" />
             </a>
           </span>
           <ul>
